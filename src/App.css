@@ -1,0 +1,44 @@
+
+body {
+    background-color: hsl(207,26%,17%);
+    color: #fff;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.info{
+    background-color: rgb(232, 232, 232);
+}
+input, select{
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    background-color: rgb(232, 232, 232);
+    padding: 8px;
+    width: 14rem;
+}
+select{
+    width: 8rem;
+    color: rgb(124, 123, 123);
+}
+option{
+    border: none;
+}
+.btn{
+    border-radius: 5px;
+    border: 2px solid  #fff;
+   padding: .5rem 2rem;
+}
+.country-detail{
+    color: #fff;
+    text-decoration: none;
+}
+.info{
+    color:hsl(207,26%,17%);
+}
+.back{
+    color: #fff;
+    text-decoration: none;
+}
